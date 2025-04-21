@@ -9,8 +9,7 @@
           </div>
           <div class="w-body-a">
             <p class="w-text-a color-text-a">
-              Enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat duis
-              sed aute irure.
+            For I will not allow anyone to practice any labor except as a few things come out of the comfort of the two, but now I will.
             </p>
           </div>
           <div class="w-footer-a">
